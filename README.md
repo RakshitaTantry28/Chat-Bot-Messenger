@@ -1,2 +1,2 @@
 # Chat-Bot-Messenger
-A repo to create a basic facebook bot messenger using Node.js
+A repo to create a basic facebook messenger bot using Node.js
